@@ -27,3 +27,28 @@ CryptoTracker is an application built with React that allows users to track, mon
 ## Installation 
 
 1. Clone this repository
+git clone https://github.com/sinisterdaddy/CryptoTracker.git
+
+
+2. Install necessary dependencies
+npm install
+
+
+3. Start the app
+npm start
+
+
+
+Visit `http://localhost:3000` in your browser
+
+Note: This application is a work in project. If you encounter any bugs or have any suggestions, feel free to create an issue or make a pull request.
+
+## Deployment 
+
+The `CryptoTracker` app is deployed with [Netlify](https://www.netlify.com/). Following development, simply drag and drop your build folder onto Netlify to deploy your updates.
+
+## License
+CryptoTracker is [MIT licensed](./LICENSE).
+
+## Contributors
+- RK([@sinisterdaddy(https://github.com/sinisterdaddy))
