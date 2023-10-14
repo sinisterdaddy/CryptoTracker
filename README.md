@@ -2,7 +2,7 @@
 
 ## Overview 
 
-CryptoTracker is an application built with React that allows users to track, monitor, and analyze cryptocurrency prices, news, and trends. Get instant access to in-depth data fetched in real-time from cryptocurrency APIs. The application features user-friendly navigation and uses Chart.js for visually appealing interpretations of data.
+CryptoTracker is an application built with React that allows users to track, monitor, and analyze cryptocurrency prices, news, and trends. Get instant access to in-depth data fetched in real-time from cryptocurrency APIs. The application features user-friendly navigation and uses Chart.js for visually appealing interpretations of data. 
 
 ## Features 
 
