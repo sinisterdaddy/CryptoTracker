@@ -4,3 +4,5 @@
 
 - Updated API documentation.
 
+- Fixed issue with form validation.
+
