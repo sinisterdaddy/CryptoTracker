@@ -2,3 +2,5 @@
 
 - Addressed crash on startup for some devices.
 
+- Updated API documentation.
+
