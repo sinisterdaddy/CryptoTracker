@@ -1,0 +1,4 @@
+# Project Context
+
+- Addressed crash on startup for some devices.
+
