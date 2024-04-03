@@ -12,3 +12,5 @@
 
 - Refactored codebase for better readability.
 
+- Resolved CORS errors on login.
+
