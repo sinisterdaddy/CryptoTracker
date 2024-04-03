@@ -8,3 +8,5 @@
 
 - Added user authentication.
 
+- Optimized CSS for performance.
+
