@@ -10,3 +10,5 @@
 
 - Optimized CSS for performance.
 
+- Refactored codebase for better readability.
+
